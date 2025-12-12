@@ -19,4 +19,4 @@ jobs:
           token: ${{secrets.ACCESS_TOKEN}}
           branch: gh-pages
           folder: build
-          forch: true
+          force: true
